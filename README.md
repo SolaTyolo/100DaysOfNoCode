@@ -20,7 +20,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 4 > [Build a Personal Site](days/4.md)
 - [ ] 5 > [Create a Form](days/5.md)
 - [ ] 6 > [Build a Resource Directory](days/6.md)
-- [ ] 7 > [](days/7.md)
+- [ ] 7 > [Celebrate your 1st Week](days/7.md)
 - [ ] 8 > [](days/8.md)
 - [ ] 9 > [](days/9.md)
 - [ ] 10 > [](days/10.md)
