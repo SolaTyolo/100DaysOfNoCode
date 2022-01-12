@@ -25,7 +25,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 9 > [Build a Voice App](days/9.md)
 - [ ] 10 > [Build a Wiki](days/10.md)
 - [ ] 11 > [Ctreate a Newsletter](days/11.md)
-- [ ] 12 > [](days/12.md)
+- [ ] 12 > [create a Project Tracker](days/12.md)
 - [ ] 13 > [](days/13.md)
 - [ ] 14 > [](days/14.md)
 
