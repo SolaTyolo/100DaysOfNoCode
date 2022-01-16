@@ -30,8 +30,8 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 14 > [Create a Tweet Scheduler](days/14.md)
 
 ## the most versatile no-code stack
-- [ ] 15 > [](days/15.md)
-- [ ] 16 > [](days/16.md)
+- [ ] 15 > [Phase 2 of Your Journey](days/15.md)
+- [ ] 16 > [Airtable Fundamentals](days/16.md)
 - [ ] 17 > [](days/17.md)
 - [ ] 18 > [](days/18.md)
 - [ ] 19 > [](days/19.md)
