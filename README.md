@@ -33,7 +33,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 15 > [Phase 2 of Your Journey](days/15.md)
 - [ ] 16 > [Airtable Fundamentals](days/16.md)
 - [ ] 17 > [Build a CRM(Airtable)](days/17.md)
-- [ ] 18 > [](days/18.md)
+- [ ] 18 > [DIY Project(Airtable)](days/18.md)
 - [ ] 19 > [](days/19.md)
 - [ ] 20 > [](days/20.md)
 - [ ] 21 > [](days/21.md)
