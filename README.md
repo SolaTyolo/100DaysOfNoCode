@@ -36,7 +36,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 18 > [DIY Project(Airtable)](days/18.md)
 - [ ] 19 > [Notion Fundamentals](days/19.md)
 - [ ] 20 > [Build a Financial Trcker(Notion)](days/20.md)
-- [ ] 21 > [](days/21.md)
+- [ ] 21 > [Build a Personal Site](days/21.md)
 - [ ] 22 > [](days/22.md)
 - [ ] 23 > [](days/23.md)
 - [ ] 24 > [](days/24.md)
