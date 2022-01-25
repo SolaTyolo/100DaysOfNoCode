@@ -40,7 +40,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 22 > [Zapier Fundamentals](days/22.md)
 - [ ] 23 > [Automate your Email(Zapier)](days/23.md)
 - [ ] 24 > [Zapier Mini Challenge](days/24.md)
-- [ ] 25 > [](days/25.md)
+- [ ] 25 > [Glide Fundamentals](days/25.md)
 - [ ] 26 > [](days/26.md)
 - [ ] 27 > [](days/27.md)
 - [ ] 28 > [](days/28.md)
