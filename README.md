@@ -43,7 +43,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 25 > [Glide Fundamentals](days/25.md)
 - [ ] 26 > [Build a Blog (Glide)](days/26.md)
 - [ ] 27 > [Build Your Own Mobile App(Glide)](days/27.md)
-- [ ] 28 > [](days/28.md)
+- [ ] 28 > [Softr Fundamentals](days/28.md)
 - [ ] 29 > [](days/29.md)
 - [ ] 30 > [](days/30.md)
 - [ ] 31 > [](days/31.md)
