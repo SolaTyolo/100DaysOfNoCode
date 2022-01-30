@@ -45,7 +45,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 27 > [Build Your Own Mobile App(Glide)](days/27.md)
 - [ ] 28 > [Softr Fundamentals](days/28.md)
 - [ ] 29 > [Build a Location Based Directory](days/29.md)
-- [ ] 30 > [](days/30.md)
+- [ ] 30 > [Build a Marketplace](days/30.md)
 - [ ] 31 > [](days/31.md)
 
 
