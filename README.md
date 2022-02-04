@@ -53,14 +53,6 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 - [ ] 32 > [The Adventure Begins](days/32.md)
 
 - [ ] 33 >
-
-| path | content  |
-| -- | -- |
-|     |   [Intro to Design](days/33)    |
-|     |   [Whar are API's]()   |
-|     |  [Intro to Bubble]()  |
-|     |  [Resource Directory Warm up]()  |
-|     |  [Prep for Starting your Newsletter]()  |
-|     |  [Create a new app on Bubble]()  |
-|     |  [Designing your Personal Wiki]()  |
+- [ ] 34 >
+- [ ] 35 >
 
