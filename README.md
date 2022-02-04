@@ -51,36 +51,16 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
 ## choose your own journey
 - [ ] 31 > [Welcome to Phase 3!](days/31.md)
 - [ ] 32 > [The Adventure Begins](days/32.md)
-- [ ] 33 > [](days/33.md)
-- [ ] 34 > [](days/34.md)
-- [ ] 35 > [](days/35.md)
-- [ ] 36 > [](days/36.md)
-- [ ] 37 > [](days/37.md)
-- [ ] 38 > [](days/38.md)
-- [ ] 39 > [](days/39.md)
-- [ ] 40 > [](days/33.md)
-- [ ] 41 > [](days/33.md)
-- [ ] 42 > [](days/33.md)
-- [ ] 43 > [](days/33.md)
-- [ ] 44 > [](days/33.md)
-- [ ] 45 > [](days/33.md)
-- [ ] 46 > [](days/33.md)
-- [ ] 47 > [](days/33.md)
-- [ ] 48 > [](days/33.md)
-- [ ] 49 > [](days/33.md)
-- [ ] 50 > [](days/33.md)
-- [ ] 51 > [](days/33.md)
-- [ ] 52 > [](days/33.md)
-- [ ] 53 > [](days/33.md)
-- [ ] 54 > [](days/33.md)
-- [ ] 55 > [](days/33.md)
-- [ ] 56 > [](days/33.md)
-- [ ] 57 > [](days/33.md)
-- [ ] 58 > [](days/33.md)
-- [ ] 59 > [](days/33.md)
-- [ ] 60 > [](days/33.md)
-- [ ] 61 > [](days/33.md)
-- [ ] 62 > [](days/33.md)
-- [ ] 63 > [](days/33.md)
-- [ ] 64 > [](days/33.md)
-- [ ] 65 > [](days/33.md)
+
+- [ ] 33 >
+
+| path | content  |
+| -- | -- |
+|     |   [Intro to Design](days/33)    |
+|     |   [Whar are API's]()   |
+|     |  [Intro to Bubble]()  |
+|     |  [Resource Directory Warm up]()  |
+|     |  [Prep for Starting your Newsletter]()  |
+|     |  [Create a new app on Bubble]()  |
+|     |  [Designing your Personal Wiki]()  |
+
