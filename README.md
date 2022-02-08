@@ -84,6 +84,7 @@ Whilst it's exciting, no-code can be a little overwhelming. To make it less so, 
   | Harold | [Creating a Sitemap](days/36/CreatingASitemap.md)                        |
   | Harold | [Building the Frontend](days/37/BuildingTheFrontend.md)                  |
   | Harold | [Connecting Softr and Airtable](days/38/ConnectingSoftrAndAirtable.md)   |
+  | Harold | [Completing your Resource Direcotry](days/39/CompletingYourResourceDirectory.md)   |
 
 - [ ] How to create your own newsletter
 
